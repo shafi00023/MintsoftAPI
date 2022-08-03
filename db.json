@@ -19,4 +19,14 @@
         "name": "Extra Large Box",
         "size": "400 * 400 * 400 cm"
     }
+],
+"carton" : [
+     {
+        "name": "cartonId",
+            "id": "1"
+    },
+    {
+        "name": "cartonId",
+        "id": "2"
+    }
 ]}
