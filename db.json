@@ -20,7 +20,7 @@
         "size": "400 * 400 * 400 cm"
     }
 ],
-"carton" : [
+"carton" : 
     {
        "name": "cartonId",
            "id": "1"
@@ -29,5 +29,4 @@
        "name": "cartonId",
        "id": "2"
    }
-]
 }
