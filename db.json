@@ -20,8 +20,8 @@
         "size": "400 * 400 * 400 cm"
     }
 ],
-"carton" : {
-       "name": "cartonId",
-           "id": "1"
-   }
+"carton": {
+    "name": "typicode",
+    "id" : "1"
+  }
 }
