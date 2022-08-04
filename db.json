@@ -21,7 +21,7 @@
     }
 ],
 
-[ "carton" : 
+"carton" : [
      {
         "name": "cartonId",
             "id": "1"
