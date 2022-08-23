@@ -32,7 +32,7 @@
         "cartonid": "98098"
     }
     ],
- "palletdata" : [
+"palletdata" : [
     {
         "id": 1,
         "palletname": "Pallet1",
@@ -49,7 +49,7 @@
          "item": "1 Item"
     }
 ],
- "cartondata" : [
+"cartondata" : [
     {
         "id": 1,
         "cartonname": "Carton1",
@@ -66,7 +66,7 @@
          "item": "1 Item"
     }
 ],
-  "productdata" : [
+"productdata" : [
     {
         "id": 1,
         "productname": "Diet Coke",
@@ -75,14 +75,14 @@
     },
     {
         "id": 2,
-         "productname": "Coke",
-         "item": "1 Item",
+        "productname": "Coke",
+        "item": "1 Item",
         "url": "https://via.placeholder.com/600/771796",
     },
     {
         "id": 3,
         "productname": "Coke Zero",
-         "item": "1 Item",
+        "item": "1 Item",
         "url": "https://via.placeholder.com/600/771796",
     }
 ]
