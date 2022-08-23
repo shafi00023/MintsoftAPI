@@ -31,5 +31,59 @@
         "id": 1,
         "cartonid": "98098"
     }
-    ]
+    ],
+ "palletdata" : [
+    {
+        "id": 1,
+        "palletname": "Pallet1",
+        "item": "1 Item"
+    },
+    {
+        "id": 2,
+         "palletname": "Pallet2",
+         "item": "1 Item"
+    },
+    {
+        "id": 3,
+        "palletname": "Pallet3",
+         "item": "1 Item"
+    }
+],
+ "cartondata" : [
+    {
+        "id": 1,
+        "cartonname": "Carton1",
+        "item": "1 Item"
+    },
+    {
+        "id": 2,
+         "cartonname": "Carton2",
+         "item": "1 Item"
+    },
+    {
+        "id": 3,
+        "cartonname": "Carton3",
+         "item": "1 Item"
+    }
+],
+  "productdata" : [
+    {
+        "id": 1,
+        "productname": "Diet Coke",
+        "item": "1 Item",
+        "url": "https://via.placeholder.com/600/771796",
+    },
+    {
+        "id": 2,
+         "productname": "Coke",
+         "item": "1 Item",
+        "url": "https://via.placeholder.com/600/771796",
+    },
+    {
+        "id": 3,
+        "productname": "Coke Zero",
+         "item": "1 Item",
+        "url": "https://via.placeholder.com/600/771796",
+    }
+]
 }
