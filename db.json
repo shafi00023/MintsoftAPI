@@ -54,22 +54,22 @@
         "id": 1,
         "cartonname": "Carton1",
         "productname": "Diet Coke",
-        "item": "DTCOKE1x330"
+        "psize": "DTCOKE1x330",
         "item": "1 Item"
     },
     {
         "id": 2,
          "cartonname": "Carton2",
          "productname": "coke",
-         "item": "COKEZRO4x330"
+         "psize": "COKEZRO4x330",
          "item": "1 Item"
     },
     {
         "id": 3,
         "cartonname": "Carton3",
-       "productname": "Coke Zero",
-         "item": "COKEZRO4x330"
-         "item": "1 Item"
+        "productname": "Coke Zero",
+        "psize": "COKEZRO4x330",
+        "item": "1 Item"
     }
 ]
 }
