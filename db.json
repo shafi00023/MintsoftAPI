@@ -39,15 +39,17 @@
         "cartonname": "Carton1",
         "productname": "Diet Coke",
         "psize": "DTCOKE1x330",
+        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
         "item": "1 Item"
     },
     {
         "id": 2,
-         "palletname": "Pallet2",
+        "palletname": "Pallet2",
         "cartonname": "Carton2",
-         "productname": "coke",
-         "psize": "COKEZRO4x330",
-         "item": "1 Item"
+        "productname": "coke",
+        "psize": "COKEZRO4x330",
+        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
+        "item": "1 Item"
     },
     {
         "id": 3,
@@ -55,7 +57,8 @@
         "cartonname": "Carton3",
         "productname": "Coke Zero",
         "psize": "COKEZRO4x330",
-         "item": "1 Item"
+        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
+        "item": "1 Item"
     }
 ],
 "cartondata" : [
