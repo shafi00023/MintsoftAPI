@@ -2,22 +2,22 @@
     {
         "id": 1,
         "name": "Small Box",
-        "size": "100 * 100  * 100 cm"
+        "size": "100 x 100  x 100 cm"
     },
     {
         "id": 2,
         "name": "Medium Box",
-        "size": "200 * 200 * 200 cm"
+        "size": "200 x 200 x 200 cm"
     },
     {
         "id": 3,
         "name": "Large Box",
-        "size": "300 * 300 * 300 cm"
+        "size": "300 x 300 x 300 cm"
     },
     {
         "id": 4,
         "name": "Extra Large Box",
-        "size": "400 * 400 * 400 cm"
+        "size": "400 x 400 x 400 cm"
     }
 ],
 "carton": [
