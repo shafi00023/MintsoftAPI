@@ -42,7 +42,8 @@
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
         "item": "1 Item",
         "location": "C101",
-        "area": "Pallet, Main Warehouse"
+        "area": "Pallet, Main Warehouse",
+        "available": 25
     },
     {
         "id": 2,
@@ -53,7 +54,8 @@
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
         "item": "1 Item",
         "location": "A101",
-        "area": "Pallet, Main Warehouse"
+        "area": "Pallet, Main Warehouse",
+        "available": 10
     },
     {
         "id": 3,
@@ -64,7 +66,8 @@
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
         "item": "1 Item",
         "location": "E101",
-        "area": "Pallet, Main Warehouse"
+        "area": "Pallet, Main Warehouse",
+        "available": 15
     }
 ],
 "cartondata" : [
