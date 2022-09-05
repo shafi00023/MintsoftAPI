@@ -40,7 +40,9 @@
         "productname": "Diet Coke",
         "psize": "DTCOKE1x330",
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
-        "item": "1 Item"
+        "item": "1 Item",
+        "location": "C101",
+        "area": "Pallet, Main Warehouse"
     },
     {
         "id": 2,
@@ -49,7 +51,9 @@
         "productname": "coke",
         "psize": "COKEZRO4x330",
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
-        "item": "1 Item"
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse"
     },
     {
         "id": 3,
@@ -58,7 +62,9 @@
         "productname": "Coke Zero",
         "psize": "COKEZRO4x330",
         "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
-        "item": "1 Item"
+        "item": "1 Item",
+        "location": "E101",
+        "area": "Pallet, Main Warehouse"
     }
 ],
 "cartondata" : [
