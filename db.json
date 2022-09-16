@@ -25,7 +25,8 @@
         "id": 1,
         "name": "carton"
     },
-    {"pallete": {
+    {
+        "pallete": {
     {
         "id": 1,
         "pname": "Half",
