@@ -29,8 +29,31 @@
 "cartonid": [
     {
         "id": 1,
-        "cartonid": "98098"
+        "cartonid": "98098",
+        "pallete": {
+    {
+        "id": 1,
+        "pname": "Half",
+        "psize": "100 x 100  x 100cm"
+    },
+    {
+        "id": 2,
+        "pname": "Full",
+        "psize": "200 x 200 x 200cm"
+    },
+    {
+        "id": 3,
+        "pname": "Double",
+        "psize": "300 x 300 x 300cm"
+    },
+    {
+        "id": 4,
+        "pname": "Extra Large",
+        "psize": "400 x 400 x 400cm"
     }
+    }
+    },
+    
     ],
 "palletdata" : [
     {
