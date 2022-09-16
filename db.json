@@ -18,6 +18,26 @@
         "id": 4,
         "name": "Extra Large Box",
         "size": "400 x 400 x 400cm"
+    },
+    {
+        "id": 5,
+        "pname": "Half",
+        "psize": "100 x 100  x 100cm"
+    },
+    {
+        "id": 6,
+        "pname": "Full",
+        "psize": "200 x 200 x 200cm"
+    },
+    {
+        "id": 7,
+        "pname": "Double",
+        "psize": "300 x 300 x 300cm"
+    },
+    {
+        "id": 8,
+        "pname": "Extra Large",
+        "psize": "400 x 400 x 400cm"
     }
 ],
 "carton": [
