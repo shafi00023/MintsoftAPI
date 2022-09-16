@@ -2,24 +2,8 @@
     {
         "id": 1,
         "name": "Small Box",
-        "size": "100 x 100  x 100cm"
-    },
-    {
-        "id": 2,
-        "name": "Medium Box",
-        "size": "200 x 200 x 200cm"
-    },
-    {
-        "id": 3,
-        "name": "Large Box",
-        "size": "300 x 300 x 300cm"
-    },
-    {
-        "id": 4,
-        "name": "Extra Large Box",
-        "size": "400 x 400 x 400cm"
-    },
-    "pallete": {
+        "size": "100 x 100  x 100cm",
+        "pallete": {
     {
         "id": 5,
         "pname": "Half",
@@ -40,7 +24,22 @@
         "pname": "Extra Large",
         "psize": "400 x 400 x 400cm"
     }
-}
+    },
+    {
+        "id": 2,
+        "name": "Medium Box",
+        "size": "200 x 200 x 200cm"
+    },
+    {
+        "id": 3,
+        "name": "Large Box",
+        "size": "300 x 300 x 300cm"
+    },
+    {
+        "id": 4,
+        "name": "Extra Large Box",
+        "size": "400 x 400 x 400cm"
+    }
 ],
 "carton": [
     {
