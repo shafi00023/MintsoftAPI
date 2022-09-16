@@ -19,7 +19,7 @@
         "name": "Extra Large Box",
         "size": "400 x 400 x 400cm"
     },
-    pallete: {
+    "pallete": {
     {
         "id": 5,
         "pname": "Half",
